@@ -1,0 +1,11 @@
+{
+  "name": "factory-api",
+  "version": "1.0.0",
+  "description": "factory automation game full api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "carmogui",
+  "license": "ISC"
+}
